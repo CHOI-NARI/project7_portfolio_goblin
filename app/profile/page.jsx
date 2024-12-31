@@ -15,17 +15,6 @@ const Page = () => {
     >
       <ProfileMain />
       <ProfileServe />
-      <button
-        style={{
-          width: "50px",
-          height: "50px",
-          border: "2px solid #ab7543",
-          color: "#ab7543",
-          borderRadius: "9999px",
-        }}
-      >
-        TOP
-      </button>
     </section>
   );
 };
